@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Flash Beats",
+    "image": "flash-beats.png",
+    "deployed": "https://teamflash1.github.io/music-app/",
+    "repo": "https://github.com/TeamFlash1/music-app"
+  },
+  {
+    "id": 2,
+    "name": "Weather Dashboard",
+    "image": "../../assets/images/flash-beats.png",
+    "deployed": "https://igk1024.github.io/weather-dashboard/index.html",
+    "repo": "https://github.com/igk1024/weather-dashboard"
+  },
+  {
+    "id": 3,
+    "name": "Gift Fairy",
+    "image": "/assets/images/flash-beats.png",
+    "deployed": "https://polar-cove-94723.herokuapp.com/",
+    "repo": "https://github.com/Gift-Fairy/gift-fairy-app"
+  },
+  {
+    "id": 4,
+    "name": "The Tech Blog",
+    "image": "../../assets/images/flash-beats.png",
+    "deployed": "https://salty-ravine-15957.herokuapp.com/",
+    "repo": "https://github.com/igk1024/mvc-tech-blog"
+  },
+  {
+    "id": 5,
+    "name": "Work Day Scheduler",
+    "image": "../../assets/images/flash-beats.png",
+    "deployed": "https://igk1024.github.io/work-day-scheduler/",
+    "repo": "https://github.com/igk1024/work-day-scheduler"
+  },
+  {
+    "id": 6,
+    "name": "Code Quiz",
+    "image": "../../assets/images/flash-beats.png",
+    "deployed": "https://igk1024.github.io/code-quiz/",
+    "repo": "https://github.com/igk1024/code-quiz"
+  }
+
+  
+]
