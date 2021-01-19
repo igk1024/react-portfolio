@@ -40,7 +40,8 @@ const Resume = () => {
     </div>
         
     <div className="column-resume">
-    <a href="../../assets/documents/ida-krause-resume.pdf" download=""><h3>Download Resume</h3></a>
+    <h3><a href={resume}>Download Resume</a></h3>
+    {/* <p className="resume">View/download complete <a href={resume}>resume PDF</a></p> */}
 
         </div>
 
