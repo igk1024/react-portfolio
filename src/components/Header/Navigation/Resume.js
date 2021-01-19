@@ -41,8 +41,6 @@ const Resume = () => {
         
     <div className="column-resume">
     <h3><a href={resume}>Download Resume</a></h3>
-    {/* <p className="resume">View/download complete <a href={resume}>resume PDF</a></p> */}
-
         </div>
 
 
